@@ -56,7 +56,7 @@ A programmable, extensible simulation of the universe as a mathematical construc
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/Juno445/Universe-simulator.git
-cd mathematical-universe-simulation
+cd Universe-simulator
 ```
 ### **2. Install Dependencies**
 _No dependencies needed for core simulation._  
