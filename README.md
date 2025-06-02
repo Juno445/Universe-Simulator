@@ -2,7 +2,6 @@ Certainly! Here is the formatted **README.md** with all emojis removed, preservi
 
 ---
 
-<<<<<<< HEAD
 # Mathematical Universe Simulator
 
 A programmable, extensible simulation of the universe as a mathematical construct, built in JavaScript/Node.js. This project models physics, time, space, and cosmic objects from first principles, laying a modular foundation for exploring physical laws and constants in a toy universe.
@@ -115,11 +114,3 @@ See [LICENSE](LICENSE) for details.
 ---
 
 If you’d like any section expanded, or want a starter Contribution Guide or Issue/PR template, just let me know!
-=======
-1.) classic_universe.py is a base model that utilizes known, foundational science to predict the location of an object in the space.
-
-2.) butterfly_effect.py tries to take this a step further, and introduces the quantum element by attempting to measure what happens as a result of an interaction.
-
-## Goals
-We aim to build as realistic of a universe as we can, factoring in the known laws, constants, and current unknowns.
->>>>>>> 24e545fd176f34e938cc32f4a504a70ac60957c3
