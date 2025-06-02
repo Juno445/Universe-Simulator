@@ -1,0 +1,13 @@
+{
+  "name": "universe-simulation",
+  "version": "1.0.0",
+  "description": "Mathematical universe simulation",
+  "main": "universe.js",
+  "scripts": {
+    "start": "node universe.js",
+    "dev": "node --inspect universe.js"
+  },
+  "keywords": ["physics", "simulation", "universe"],
+  "author": "Bryan Weston",
+  "license": "MIT"
+}
