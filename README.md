@@ -1,7 +1,3 @@
-Certainly! Here is the formatted **README.md** with all emojis removed, preserving the rest of the content:
-
----
-
 # Mathematical Universe Simulator
 
 A programmable, extensible simulation of the universe as a mathematical construct, built in JavaScript/Node.js. This project models physics, time, space, and cosmic objects from first principles, laying a modular foundation for exploring physical laws and constants in a toy universe.
