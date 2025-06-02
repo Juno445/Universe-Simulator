@@ -102,11 +102,3 @@ Open an [issue](https://github.com/Juno445/Universe-simulator/issues) or submit 
 ## License
 MIT License.  
 See [LICENSE](LICENSE) for details.
-
----
-
-### _“The universe is not only stranger than we imagine, it is stranger than we can imagine.” — J.B.S. Haldane_
-
----
-
-If you’d like any section expanded, or want a starter Contribution Guide or Issue/PR template, just let me know!
