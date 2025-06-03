@@ -1,7 +1,3 @@
-Certainly! Here is the formatted **README.md** with all emojis removed, preserving the rest of the content:
-
----
-
 # Mathematical Universe Simulator
 
 A programmable, extensible simulation of the universe as a mathematical construct, built in JavaScript/Node.js. This project models physics, time, space, and cosmic objects from first principles, laying a modular foundation for exploring physical laws and constants in a toy universe.
@@ -56,7 +52,7 @@ A programmable, extensible simulation of the universe as a mathematical construc
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/Juno445/Universe-simulator.git
-cd mathematical-universe-simulation
+cd Universe-simulator/js
 ```
 ### **2. Install Dependencies**
 _No dependencies needed for core simulation._  
@@ -106,11 +102,3 @@ Open an [issue](https://github.com/Juno445/Universe-simulator/issues) or submit 
 ## License
 MIT License.  
 See [LICENSE](LICENSE) for details.
-
----
-
-### _“The universe is not only stranger than we imagine, it is stranger than we can imagine.” — J.B.S. Haldane_
-
----
-
-If you’d like any section expanded, or want a starter Contribution Guide or Issue/PR template, just let me know!
